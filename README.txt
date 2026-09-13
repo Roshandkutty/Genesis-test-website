@@ -1,0 +1,1 @@
+Genesis Forge Works multi-page conversion. Original visible section copy, styling, imagery URLs and design details are preserved. Sections are distributed across Home, About, Capabilities, Manufacturing, Industries, Products, Quality and Contact pages. Replace placeholders with final Genesis data/assets before launch.
